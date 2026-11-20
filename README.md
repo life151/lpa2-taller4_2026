@@ -1,5 +1,11 @@
 # Frontend para el API de Música
+## Datos del estudiante
 
+- Nombre: Lina Fernanda Chamorro Diaz
+- Correo: lina.chamorro.0604@miremington.edu.co
+- Asignatura: Lenguaje de Programación Avanzado 2
+- Docente: Diego Fernando  Marin lozano
+- Repositorio: lpa2-taller4_2026
 ## Descripción
 
 En este taller generarás el frontend para el API de Música desarrollada en el lpa2-taller3 usando la herramienta [v0.app](https://v0.app/) y un *prompt* especializado.
@@ -68,4 +74,21 @@ Antes de usar el *prompt*, recopila esta información de tu API de Música, para
 11. Abrir la aplicación en: [localhost:3000](http://localhost:3000/)
 12. Revisa y ajusta la configuración del API
 13. Para ejecutar en modo producción: `pnpm build` y luego: `pnpm start`
+
+## Lo que implemente en el taller 4
+Frontend generado en v0.app y ajustado para consumir la API del Taller 3.
+TecnologíasNext.js 16.4.6 + React + TypeScript
+Tailwind CSS
+pnpm
+## Cómo correrlo
+pnpm install
+pnpm dev
+# Abrir http://localhost:3000
+
+## Producción (verificado)
+
+pnpm build
+#  Compiled successfully in 5.5s
+pnpm start
+# Ready in 121ms - http://localhost:3000
 
